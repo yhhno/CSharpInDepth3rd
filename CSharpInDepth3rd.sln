@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "part1基础部分", "part1基础部分", "{9A01E2B9-3E87-4887-B883-6D87B71CECC5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "part2Csharp2解决CSharp1的问题", "part2Csharp2解决CSharp1的问题", "{AEA1AECA-3CB4-43D6-A89F-78B1C76CB508}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "part3Csharp3革新写代码的方式", "part3Csharp3革新写代码的方式", "{DF5BDCE9-6A98-48F9-B753-778C9A13AA51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "part4Csharp4良好的交互性", "part4Csharp4良好的交互性", "{2B09074F-C075-4EF9-AEBD-9974DAAA7962}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "part5Csharp5简化的异步编程", "part5Csharp5简化的异步编程", "{08BEB18E-40C5-4C77-8AFE-C3CCE197672E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "charp1Csharp开发的进化史", "charp1Csharp开发的进化史", "{308A1551-9F2A-4FEC-BE1C-9A626DB5052E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tip1.1从简单的数据类型开始", "tip1.1从简单的数据类型开始", "{23B42276-ECC8-493F-9BF2-8E7D1563DC5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tip1.1从简单的数据类型开始", "part1\chapter1Csharp开发的进化史\tip1.1从简单的数据类型开始\tip1.1从简单的数据类型开始\tip1.1从简单的数据类型开始.csproj", "{3B2C88AD-7E09-4C66-80BB-7978544B9F6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chapter3用泛型实现参数化类型", "chapter3用泛型实现参数化类型", "{F6462997-4DEE-4863-8A36-917555290F77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tip3.1为什么需要泛型", "part2\chapter3用泛型实现参数化类型\tip3.1为什么需要泛型\tip3.1为什么需要泛型.csproj", "{2BE88975-55F3-4216-9117-582BFB05784B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B2C88AD-7E09-4C66-80BB-7978544B9F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2C88AD-7E09-4C66-80BB-7978544B9F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2C88AD-7E09-4C66-80BB-7978544B9F6D}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{3B2C88AD-7E09-4C66-80BB-7978544B9F6D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3B2C88AD-7E09-4C66-80BB-7978544B9F6D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3B2C88AD-7E09-4C66-80BB-7978544B9F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2C88AD-7E09-4C66-80BB-7978544B9F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2C88AD-7E09-4C66-80BB-7978544B9F6D}.Release|ARM.ActiveCfg = Release|Any CPU
+		{3B2C88AD-7E09-4C66-80BB-7978544B9F6D}.Release|x64.ActiveCfg = Release|Any CPU
+		{3B2C88AD-7E09-4C66-80BB-7978544B9F6D}.Release|x86.ActiveCfg = Release|Any CPU
+		{2BE88975-55F3-4216-9117-582BFB05784B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE88975-55F3-4216-9117-582BFB05784B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE88975-55F3-4216-9117-582BFB05784B}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{2BE88975-55F3-4216-9117-582BFB05784B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2BE88975-55F3-4216-9117-582BFB05784B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2BE88975-55F3-4216-9117-582BFB05784B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE88975-55F3-4216-9117-582BFB05784B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE88975-55F3-4216-9117-582BFB05784B}.Release|ARM.ActiveCfg = Release|Any CPU
+		{2BE88975-55F3-4216-9117-582BFB05784B}.Release|x64.ActiveCfg = Release|Any CPU
+		{2BE88975-55F3-4216-9117-582BFB05784B}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{308A1551-9F2A-4FEC-BE1C-9A626DB5052E} = {9A01E2B9-3E87-4887-B883-6D87B71CECC5}
+		{23B42276-ECC8-493F-9BF2-8E7D1563DC5B} = {308A1551-9F2A-4FEC-BE1C-9A626DB5052E}
+		{3B2C88AD-7E09-4C66-80BB-7978544B9F6D} = {23B42276-ECC8-493F-9BF2-8E7D1563DC5B}
+		{F6462997-4DEE-4863-8A36-917555290F77} = {AEA1AECA-3CB4-43D6-A89F-78B1C76CB508}
+		{2BE88975-55F3-4216-9117-582BFB05784B} = {F6462997-4DEE-4863-8A36-917555290F77}
+	EndGlobalSection
+EndGlobal
