@@ -13,15 +13,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "part4Csharp4良好的交互
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "part5Csharp5简化的异步编程", "part5Csharp5简化的异步编程", "{08BEB18E-40C5-4C77-8AFE-C3CCE197672E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "charp1Csharp开发的进化史", "charp1Csharp开发的进化史", "{308A1551-9F2A-4FEC-BE1C-9A626DB5052E}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tip1.1从简单的数据类型开始", "tip1.1从简单的数据类型开始", "{23B42276-ECC8-493F-9BF2-8E7D1563DC5B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chapter1Csharp开发的进化史", "chapter1Csharp开发的进化史", "{308A1551-9F2A-4FEC-BE1C-9A626DB5052E}"
+	ProjectSection(SolutionItems) = preProject
+		Chapter1.txt = Chapter1.txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tip1.1从简单的数据类型开始", "part1\chapter1Csharp开发的进化史\tip1.1从简单的数据类型开始\tip1.1从简单的数据类型开始\tip1.1从简单的数据类型开始.csproj", "{3B2C88AD-7E09-4C66-80BB-7978544B9F6D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chapter3用泛型实现参数化类型", "chapter3用泛型实现参数化类型", "{F6462997-4DEE-4863-8A36-917555290F77}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tip3.1为什么需要泛型", "part2\chapter3用泛型实现参数化类型\tip3.1为什么需要泛型\tip3.1为什么需要泛型.csproj", "{2BE88975-55F3-4216-9117-582BFB05784B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BAAA74FF-9810-46DF-B5A8-41253945C753}"
+	ProjectSection(SolutionItems) = preProject
+		Point.txt = Point.txt
+		readme.txt = readme.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,8 +68,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{308A1551-9F2A-4FEC-BE1C-9A626DB5052E} = {9A01E2B9-3E87-4887-B883-6D87B71CECC5}
-		{23B42276-ECC8-493F-9BF2-8E7D1563DC5B} = {308A1551-9F2A-4FEC-BE1C-9A626DB5052E}
-		{3B2C88AD-7E09-4C66-80BB-7978544B9F6D} = {23B42276-ECC8-493F-9BF2-8E7D1563DC5B}
+		{3B2C88AD-7E09-4C66-80BB-7978544B9F6D} = {308A1551-9F2A-4FEC-BE1C-9A626DB5052E}
 		{F6462997-4DEE-4863-8A36-917555290F77} = {AEA1AECA-3CB4-43D6-A89F-78B1C76CB508}
 		{2BE88975-55F3-4216-9117-582BFB05784B} = {F6462997-4DEE-4863-8A36-917555290F77}
 	EndGlobalSection
